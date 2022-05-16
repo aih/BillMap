@@ -1,10 +1,10 @@
-amqp==2.6.1
+amqp
 appnope==0.1.0
 asgiref==3.2.10
 attrs==20.3.0
 Automat==20.2.0
 beautifulsoup4==4.9.3
-billiard==3.6.3.0
+billiard>=3.6.3.0
 celery==5.2.2
 celery-redbeat==0.13.0
 certifi==2020.11.8
@@ -29,7 +29,7 @@ itemadapter==0.2.0
 itemloaders==1.0.4
 iteration-utilities==0.11.0
 jmespath==0.10.0
-kombu==4.6.11
+kombu>=4.6.11
 lxml==4.6.5
 mechanize==0.4.5
 mock==4.0.3
@@ -60,7 +60,7 @@ tenacity==7.0.0
 Twisted==22.1.0
 urllib3==1.26.5
 uWSGI==2.0.19.1
-vine==1.3.0
+vine>=1.3.0
 w3lib==1.22.0
 waitress==1.4.4
 webencodings==0.5.1
